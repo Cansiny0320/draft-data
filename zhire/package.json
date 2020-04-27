@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "qs": "node qs.js",
+        "super_sign": "node super_sign.js",
+        "json2csv": "node json2csv.js"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "yl" : "node yl.js",
+        "super_sign" : "node super_sign.js",
+        "json2csv":"node json2csv.js"
+    }
+}
